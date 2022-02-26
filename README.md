@@ -6,7 +6,7 @@ Want to get your own custom URL?
 - Fork the repository
 - Edit data.json, add a list in the format:
 
-  ```
+  ```js
   [
      ['---','---'],
      ['---','---'],
