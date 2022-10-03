@@ -15,4 +15,4 @@ Want to get your own custom URL?
 ```
    
 - Make a Pull Request and wait for us to merge your request. 
-- After we merge your request, you can find your website at https://semiurl.xyz/your-custom-url-here
+- After we merge your request, you can find your website at https://semiurl.tech/your-custom-url-here
